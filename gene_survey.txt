@@ -1,0 +1,4 @@
+Gene: TP53
+NCBI Gene ID: 7157
+UniProt Accession: P04637
+PDB ID: 1TSR
